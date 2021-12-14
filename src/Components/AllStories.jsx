@@ -1,0 +1,12 @@
+let AllStories = [
+    {
+        title: "Formation of the Universe",
+        description: "Before the dawn of time and before everything two realms were there Niflheim and Musspell. To the north there was Niflheim the dark world, colder than the cold, the skies hidden by mist and the lands covered with the chilly fog. Here 11 poisonous rivers cut through the mist, each springing from the same well at the same well at the centre of it all, the roaring maelstrom called Hvergelmir.To the south Musspell was there, contained of nothing but sparks, molten rocks and burning embers. The land was filled with the roaring heat of a blacksmith's fire, no solid earth was there, no sky. Everything used to burn. And here stands Surtur with his flaming sword awaiting Ragnarok that's when he will leave Musspell and burn the whole world. Between these two realms there was a vast emptiness called Ginnungagap, 'the yawing gap'. Over time beyond measure in the region between fire and ice huge glaciers formed. When these glaciers met the sparks of Musspell in the melting waters a life appeared - likeness of a person but bigger than the worlds and stars, huger than any giant who ever walked this universe, neither male nor female but both at the same time. This creature called itself 'Ymir'.But Ymir was not the only one who was formed during melting of the ice, there was also a hornless cow. More enormous the mind could think. Ymir called the cow Audhumla. Adhumla used to lick ice blocks for food and drink and Ymir used to nourish on it's milk.One day Audhumla licked a salty rock and hair of a man appeared from it, the second day a head appeared and on the third day the rest of the body. This was Buri ancestor of all the Gods. Ymir slept and as he slept he gave birth to two giants one male and other female, a third six-headed giant appeared from his legs. This family was called the Joutunn Family. All the giants are descended from this family. Buri took a wife from among these giants. And they had a son Borr. Borr married Bestla, daughter of a giant. They had three sons Odin, Ve and Vili."
+    },
+    {
+        title: "Interesting story of Thor",
+        description: "Thor"
+    }
+]
+
+export default AllStories
